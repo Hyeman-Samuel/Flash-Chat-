@@ -7,3 +7,7 @@
 //
 
 import Foundation
+struct Message {
+    var Sender:String
+    var Message:String
+}
